@@ -1,0 +1,22 @@
+{
+  "name": "warframe-tui",
+  "version": "1.0.0",
+  "description": "a tui for warframe that is gonna use warframe apis like warframe.market api and warframe status api",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryn-Bghl/warframe-tui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ryn-Bghl/warframe-tui/issues"
+  },
+  "homepage": "https://github.com/Ryn-Bghl/warframe-tui#readme"
+}
